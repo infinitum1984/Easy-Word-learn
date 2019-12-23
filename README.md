@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Test](#test)
 * [Contact](#contact)
 
 ## General info
@@ -18,6 +19,9 @@ To use the application, in the English Words field, you need to enter the words 
 ## Technologies
 * Flutter
 * Dart
+
+## Test
+[Download apk](easy_word_learn.apk)
 
 ## Contact
 Created by danya.nosyk@gmail.com
