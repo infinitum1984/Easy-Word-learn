@@ -1,3 +1,3 @@
 # Easy Word learn
 
-![DEMO](anim.gif)
+![DEMO](anim.gif =100x200)
