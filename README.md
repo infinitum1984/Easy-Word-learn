@@ -1,3 +1,6 @@
 # Easy Word learn
 
-![DEMO](anim.gif =100x200)
+<p align="left">
+  <img src="anim.gif" width="100" title="hover text">
+</p>
+
