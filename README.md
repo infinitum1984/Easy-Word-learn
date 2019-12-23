@@ -1,6 +1,6 @@
 # Easy Word learn
 
 <p align="left">
-  <img src="anim.gif" width="200" title="hover text">
+  <img src="anim.gif" width="250" title="hover text">
 </p>
 
